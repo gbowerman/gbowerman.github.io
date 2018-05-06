@@ -1,5 +1,5 @@
 name: Jade blog
 markdown: kramdown
 title: Jade Pond
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
