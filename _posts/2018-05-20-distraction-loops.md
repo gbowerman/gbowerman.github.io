@@ -8,7 +8,7 @@ date: 2018-05-20
 
 > "What do I do? I've tried enough self-help books and fads to know whatever I try won't work. Is emptiness my lot?"
 
-A growing number of people experience some version of this cycle of meaninglessness. Like an itch that doesn't want to located, we don't recognize the underlying cause, and are constantly searching to find what missing without knowing where to look. We inhabit an unpleasant and shifting state of distraction. The feeling of inauthenticity is intolerable, and also boring. We crave escape in the form of stimulation. Escape is ephemeral. Retrograde epicycles. Nothing seems to fix the problem.
+A growing number of people experience some version of this cycle of meaninglessness. Like an itch that can't be found, we don't recognize the underlying cause, and are constantly searching to find what's missing without knowing where to look. We inhabit an unpleasant and shifting state of distraction. The feeling of inauthenticity is intolerable, and also boring. We crave escape in the form of stimulation. Escape is ephemeral. Retrograde epicycles. Nothing seems to fix the problem.
 
 The origin of this restlessness lies in a sensed disconnection with reality. The reason we're a mess of shitty habits is because we are not ourselves. If we were really being true to ourselves, instead of being shitty habits, our external actions would simply represent who we are. You may or may not like who you are, but accepting it, and being it, is the solution to this insufferable distracted state.
 
