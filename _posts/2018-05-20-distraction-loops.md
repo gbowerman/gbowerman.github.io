@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Distraction loops"
+date: 2018-05-20
+---
+
 __"I'm a mess of shitty habits. I drink most days, often alone, there's always an excuse, and when the weekend comes around I drink more. Every attempt to eat healthy ends in failure, some weight lost, more weight gained. I waste time watching crap and reading crap. I think it might be interesting, constant news updates, random clickbait, someone famous did something, ephemeral updates from people I once knew, but the end result is emptiness. Dopamine-driven feedback loops going nowhere. I feed and I feed, and it leaves me more nauseous each time. Exercise is too sporadic to make a difference. If I fix one shitty habit, another takes its place. The vacuity persists.
 
 "What do I do? I've tried enough self-help books and fads to know whatever I try won't work. Is emptiness my lot?"__
