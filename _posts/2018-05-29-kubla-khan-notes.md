@@ -3,54 +3,62 @@ layout: post
 title: "Notes on Kubla Khan by Coleridge"
 date: 2018-05-29
 ---
-# Notes on Kubla Khan by Coleridge
 This is a work in progress line by line study of _Kubla Khan (Or, a vision in a dream, A Fragment)_ by Samuel Taylor Coleridge. 
 
 Note: I am not working through this in a linear fashion, so as long as these notes are a work in progress, analysis will not start at the beginning of the poem.
 
 ## Stanza 1
-_In Xanadu did Kubla Khan_
-_A stately pleasure dome decreee:_
-_Where Alph, the sacred river, ran_
-_Through caverns measureless to man_
-_Down to a sunless sea._
+__In Xanadu did Kubla Khan__
+__A stately pleasure dome decreee:__
+__Where Alph, the sacred river, ran__
+__Through caverns measureless to man__
+__Down to a sunless sea.__
 
 Here, with alliterative pairs on each line, we are introduced to a harmonious world. Stately, sacred, measureless. The pleasure dome as cathedral. The sacred river, believed to be a reference to the Greek river Alpheus, connected with sun-worship.
 
 The _caverns measureless to man_ hint at a limitless unconscious. The _sunless sea_ indicates a deep, calm emotional state, perhaps too calm, death .
 
-_So twice five miles of sacred ground_
-_With walls and towers were girdled round;_
-_And there were gardens bright with sinuous rills,_
-_Where blossomed many an incense-bearing tree;_
-_And here were forests ancient as the hills,_
-_Enfolding sunny spots of greenery._
+__So twice five miles of sacred ground__
+__With walls and towers were girdled round;__
+__And there were gardens bright with sinuous rills,__
+__Where blossomed many an incense-bearing tree;__
+__And here were forests ancient as the hills,__
+__Enfolding sunny spots of greenery.__
 
-The walled and towered gardens indicate beauty under control. We are led through an ancient and peaceful paradise. 
+The walled and towered gardens indicate beauty under control. We are led through an ancient and peaceful paradise. Man and nature in sacred harmony.
 
 ## Stanza 2
-_But oh! that deep romantic chasm which slanted_
-_Down the green hill athwart a cedarn cover_
-_A savage place! as holy and enchanted_
-_As e'er beneath a waning moon was haunted_
-_By woman wailing for her demon-lover!_
 
-_And from this chasm, with ceaseless turmoil seething,_
-_As if this earth in fast thick pants were breathing,_
-_A mighty fountain momently was forced:_
+The peace and harmony changes to passion and dynamism in the second stanza..
 
-_Amid whose swift half-intermitted burst_
-_Huge fragments vaulted like reobounding hail,_
-_Or chaffy grain beneath the threshers flail:_
+__But oh! that deep romantic chasm which slanted__
+__Down the green hill athwart a cedarn cover!__
+__A savage place! as holy and enchanted__
+__As e'er beneath a waning moon was haunted__
+__By woman wailing for her demon-lover!__
 
-_And mid these dancing rocks at once and ever_
-_It flung up momently the sacred river._
-_Five miles meandering with a mazy motion_
-_Through wood and dale the sacred river ran,_
-_And sank in tumult to a lifeless ocean;_
+Sexual, passionate, intense. The depths of longing and emotion.
 
-_And 'mid this tumult Kubla heard from far_
-_Ancestral voices prophersying war!_
+__And from this chasm, with ceaseless turmoil seething,__
+__As if this earth in fast thick pants were breathing,__
+__A mighty fountain momently was forced:__
+__Amid whose swift half-intermitted burst__
+__Huge fragments vaulted like rebounding hail,__
+__Or chaffy grain beneath the threshers flail:__
+
+The dynamism reaches its turbulent climax. 
+
+__And mid these dancing rocks at once and ever__
+__It flung up momently the sacred river.__
+
+At once and ever - here is the panta rhei of Heraclitus. Permament movement and renewal.
+
+__Five miles meandering with a mazy motion__
+__Through wood and dale the sacred river ran,__
+__And sank in tumult to a lifeless ocean;__
+
+__And 'mid this tumult Kubla heard from far__
+__Ancestral voices prophesying war!__
 
 ## Stanza 3
 _The shadow of the dome of pleasure_
