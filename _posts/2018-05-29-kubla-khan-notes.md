@@ -5,8 +5,6 @@ date: 2018-05-29
 ---
 This is a work in progress line by line study of _Kubla Khan (Or, a vision in a dream, A Fragment)_ by Samuel Taylor Coleridge. 
 
-Note: I am not working through this in a linear fashion, so as long as these notes are a work in progress, analysis will not start at the beginning of the poem.
-
 ## Stanza 1
 __In Xanadu did Kubla Khan__  
 __A stately pleasure dome decreee:__  
