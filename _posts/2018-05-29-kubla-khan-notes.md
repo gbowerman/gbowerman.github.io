@@ -54,9 +54,11 @@ __It flung up momently the sacred river.__
 __Five miles meandering with a mazy motion__  
 __Through wood and dale the sacred river ran,__  
 
-The poem attains an alliterative apex, and revises a peaceful river. Reminding us of its divinity, evoking a calm day in the countryside.
+The poem attains an alliterative apex, and revives the peaceful river. Reminding us of its divinity, evoking a calm day in the countryside.
 
 __And sank in tumult to a lifeless ocean;__  
+
+The sunless sea, now a lifeless ocean. Reminding us of the end point of turbulent birth and meandering life: death.
 
 __And 'mid this tumult Kubla heard from far__  
 __Ancestral voices prophesying war!__  
