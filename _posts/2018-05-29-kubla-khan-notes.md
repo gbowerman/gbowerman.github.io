@@ -47,12 +47,15 @@ __Or chaffy grain beneath the threshers flail:__
 The dynamism reaches its turbulent climax. 
 
 __And mid these dancing rocks at once and ever__  
-__It flung up momently the sacred river.__  
 
 At once and ever - here is the panta rhei of Heraclitus. Permament movement and renewal.
 
+__It flung up momently the sacred river.__  
 __Five miles meandering with a mazy motion__  
 __Through wood and dale the sacred river ran,__  
+
+The poem attains an alliterative apex, and revises a peaceful river. Reminding us of its divinity, evoking a calm day in the countryside.
+
 __And sank in tumult to a lifeless ocean;__  
 
 __And 'mid this tumult Kubla heard from far__  
