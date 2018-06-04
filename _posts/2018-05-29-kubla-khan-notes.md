@@ -6,6 +6,8 @@ date: 2018-05-29
 This is a work in progress line by line study of _Kubla Khan (Or, a vision in a dream, A Fragment)_ by Samuel Taylor Coleridge. 
 
 ## Stanza 1
+Sentiment 91%
+
 __In Xanadu did Kubla Khan__  
 __A stately pleasure dome decreee:__  
 __Where Alph, the sacred river, ran__  
@@ -26,6 +28,7 @@ __Enfolding sunny spots of greenery.__
 The walled and towered gardens indicate beauty under control. We are led through an ancient and peaceful paradise. Man and nature in sacred harmony.
 
 ## Stanza 2
+Sentiment: 88%
 
 The peace and harmony changes to passion and dynamism in the second stanza..
 
@@ -64,6 +67,8 @@ __And 'mid this tumult Kubla heard from far__
 __Ancestral voices prophesying war!__  
 
 ## Stanza 3
+Sentiment: 93%
+
 _The shadow of the dome of pleasure_  
 _Floated midway on the waves;_  
 _Where was heard the mingled measure_  
