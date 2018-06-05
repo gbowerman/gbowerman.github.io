@@ -95,4 +95,4 @@ __His flashing eyes, his floating hair!__
 __Weave a circle round him thrice,__  
 __And close your eyes with holy dread__  
 __For he on honey-dew hath fed,__  
-__And dunk the milk of Paradise.__  
+__And drunk the milk of Paradise.__  
