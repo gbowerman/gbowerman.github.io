@@ -66,31 +66,33 @@ The sunless sea, now a lifeless ocean. Reminding us of the end point of turbulen
 __And 'mid this tumult Kubla heard from far__  
 __Ancestral voices prophesying war!__  
 
+Here the poem takes on a more mystical tone, voices of ancestors, prophesy, oncoming war - possibly a reference to the revolt of Nayan in 1287. 
+
 ## Stanza 3
 Sentiment: 93%
 
-_The shadow of the dome of pleasure_  
-_Floated midway on the waves;_  
-_Where was heard the mingled measure_  
-_From the fountain and the caves._  
-_It was a miracle of rare device,_  
-_A sunny pleasure-dome with caves of ice!_  
+__The shadow of the dome of pleasure__  
+__Floated midway on the waves;__  
+__Where was heard the mingled measure__  
+__From the fountain and the caves.__  
+__It was a miracle of rare device,__  
+__A sunny pleasure-dome with caves of ice!__  
 
-_A damsel with a dulcimer_  
-_In a vision once I saw:_  
-_It was an Abyssinian maid_  
-_And on her dulcimer she played,_  
-_Singing of Mount Abora._  
-_Could I revive within me_  
-_Her symphony and song,_  
-_To such a deep delight 'twould win me,_  
-_That with music loud and long,_  
-_I would build that dome in air,_  
-_That sunny dome! those caves of ice!_  
-_And all who heard should see them there,_  
-_And all should cry, Beware! Beware!_  
-_His flashing eyes, his floating hair!_  
-_Weave a circle round him thrice,_  
-_And close your eyes with holy dread_  
-_For he on honey-dew hath fed,_  
-_And dunk the milk of Paradise._  
+__A damsel with a dulcimer__  
+__In a vision once I saw:__  
+__It was an Abyssinian maid__  
+__And on her dulcimer she played,__  
+__Singing of Mount Abora.__  
+__Could I revive within me__  
+__Her symphony and song,__  
+__To such a deep delight 'twould win me,__  
+__That with music loud and long,__  
+__I would build that dome in air,__  
+__That sunny dome! those caves of ice!__  
+__And all who heard should see them there,__  
+__And all should cry, Beware! Beware!__  
+__His flashing eyes, his floating hair!__  
+__Weave a circle round him thrice,__  
+__And close your eyes with holy dread__  
+__For he on honey-dew hath fed,__  
+__And dunk the milk of Paradise.__  
