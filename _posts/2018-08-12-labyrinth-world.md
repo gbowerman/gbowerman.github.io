@@ -6,7 +6,7 @@ date: 2018-08-12
 What is the reason? So many ask  
 For life's bleak and eternal task.  
 A phantom and elusive grail;  
-With blighted pilgrims, doomed to fail  
+With blighted pilgrims, doomed to fail.  
 
 Morbid meandering,  
 Morose and mundane.  
@@ -28,7 +28,7 @@ Burn in its length.
 Arcing intensely.  
 Flashing with strength.  
 
-Step forward, into the searing light  
+Step forward, into the searing light,  
 Embrace the hallowed fire,  
 In blind defiance of Vulcan's might  
 Mount the funeral pyre.  
