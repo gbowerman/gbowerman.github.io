@@ -4,7 +4,7 @@ title: "Labyrinth World"
 date: 2018-08-12
 ---
 What is the reason? So many ask  
-For life's bleak and eternal task.  
+For life's bleak, eternal task.  
 A phantom and elusive grail;  
 With blighted pilgrims, doomed to fail.  
 
@@ -19,8 +19,8 @@ Fleetingly fatal,
 Ending in dust.  
 
 The death mask of this labyrinth world,  
-Lies heavy upon the eyes.  
-See the paradox, of time unfurled  
+Lies heavily on the eyes.  
+See the paradox of time unfurled  
 And breathe, as perception dies.  
 
 Capture a moment.  
@@ -28,11 +28,11 @@ Burn in its length.
 Arcing intensely.  
 Flashing with strength.  
 
-Step forward, into the searing light,  
+Step forward to the searing light,  
 Embrace the hallowed fire,  
 In blind defiance of Vulcan's might  
 Mount the funeral pyre.  
 
 Branching fate, I surrender to thee,  
-And laugh at our path through absurdity.  
+And laugh at the path of absurdity.  
 
