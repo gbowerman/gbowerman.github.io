@@ -4,7 +4,7 @@ title: "Labyrinth World"
 date: 2018-08-12
 ---
 What is the reason? So many ask  
-Of life's bleak and eternal task.  
+For life's bleak and eternal task.  
 A phantom and elusive grail;  
 With blighted pilgrims, doomed to fail  
 
