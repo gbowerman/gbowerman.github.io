@@ -3,36 +3,36 @@ layout: post
 title: "Labyrinth World"
 date: 2018-08-12
 ---
-__What is the reason? So many ask.__  
-__Blighted pilgrims, doomed to fail__  
-__A bleak and endless eternal task:__  
-__The phantom, elusive grail__  
+What is the reason? So many ask.  
+Blighted pilgrims, doomed to fail  
+A bleak and endless eternal task:  
+A phantom, elusive grail  
 
-__Morbid meandering,__  
-__Morose and mundane.__  
-__Endless repetition__  
-__Of pathways in vain.__  
+Morbid meandering,  
+Morose and mundane.  
+Endless repetition  
+Of pathways in vain.  
 
-__Brutal and futile,__  
-__Cruel and unjust.__  
-__Fleetingly fatal,__  
-__Ending in dust.__  
+Brutal and futile,  
+Cruel and unjust.  
+Fleetingly fatal,  
+Ending in dust.  
 
-__The death mask of this labyrinth world,__  
-__Lies heavy upon the eyes.__  
-__See the paradox, of time unfurled__  
-__And breathe, as perception dies.__  
+The death mask of this labyrinth world,  
+Lies heavy upon the eyes.  
+See the paradox, of time unfurled  
+And breathe, as perception dies.  
 
-__Capture a moment.__  
-__Burn in its length.__  
-__Arcing intensely.__  
-__Flashing with strength.__  
+Capture a moment.  
+Burn in its length.  
+Arcing intensely.  
+Flashing with strength.  
 
-__Step forward, into the searing light__  
-__Embrace the hallowed fire,__  
-__In blind defiance of Vulcan's might__  
-__Mount the funeral pyre.__  
+Step forward, into the searing light  
+Embrace the hallowed fire,  
+In blind defiance of Vulcan's might  
+Mount the funeral pyre.  
 
-__Branching fate, I surrender to thee,__  
-__And laugh at our path through absurdity.__  
+Branching fate, I surrender to thee,  
+And laugh at our path through absurdity.  
 
