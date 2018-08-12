@@ -3,14 +3,14 @@ layout: post
 title: "Labyrinth World"
 date: 2018-08-12
 ---
-What is the reason? So many ask.  
-Blighted pilgrims, doomed to fail  
-A bleak and endless eternal task:  
-A phantom, elusive grail  
+What is the reason? So many ask  
+Of life's bleak and eternal task.  
+A phantom and elusive grail;  
+With blighted pilgrims, doomed to fail  
 
 Morbid meandering,  
 Morose and mundane.  
-Endless repetition  
+Endless repeating  
 Of pathways in vain.  
 
 Brutal and futile,  
