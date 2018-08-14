@@ -13,7 +13,6 @@ Clandestine night.
 Pregnant, other worldly shadows  
 Hinting at the realm within.  
 
-
 How many times did I lie awake  
 And doubt the world around me?  
 I fought for castles that crumbled into dust.  
