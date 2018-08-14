@@ -44,7 +44,7 @@ Flit between worlds
 Inhabited by ghosts  
 Looking for their way.  
 Escaped warriors.  
-Barren wraiths fleeing their masters across the turbulent sea.  
+Barren wraiths fleeing their masters across a turbulent sea.  
 
 Limpid seafaring sculptures in chartreuse.  
 Neptune favors the weak and languid forms of life’s forgotten fancy.  
@@ -55,7 +55,7 @@ Barked messages that burn my soul.
 Arcane words.  
 The ancient language of the winged ones  
 Whose memories haunt the darkness.  
-What game will guide us through these hidden paths?  
+What name will guide us through these hidden paths?  
 Reluctantly I travelled, further into the past.  
 
 Orange glow.  
@@ -88,7 +88,7 @@ Consume me.
 
 Dawn triumphant, blazing light.  
 
-I shrink before the cruel unrepentant glare  
+Yet I shrink before the cruel unrepentant glare  
 That will reduce my corpse to dust, and move on.  
 
 Emblazoned with fear, a stranger to this vibrant world  
