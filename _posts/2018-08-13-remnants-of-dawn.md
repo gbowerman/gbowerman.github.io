@@ -13,10 +13,6 @@ Clandestine night.
 Pregnant, other worldly shadows  
 Hinting at the realm within.  
 
-How I long to walk the darkness  
-Exuberant, spirit overflowing,  
-To shine my fierce light.  
-Burning, intense, alive.  
 
 How many times did I lie awake  
 And doubt the world around me?  
@@ -27,6 +23,11 @@ There is no firm ground.  
 Be yourself, you don’t exist.  
 The paradox sends a ripple.  
 An existential riddle of freedom.  
+
+How I long to walk the darkness  
+Exuberant, spirit overflowing,  
+To shine my fierce light.  
+Burning, intense, alive.  
 
 Free from lament, a vision rises.  
 Appearing distant in the shadows  
