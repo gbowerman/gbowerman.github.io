@@ -121,9 +121,9 @@ Numb to the vibrancy of life.
 Free from the pulsing, burning flame  
 That underpins all we are and all we could be.  
 
-I am the undead, dormant, unable to scream.
-The ravenous jackal lives more in a night than
-In the length of my torpid life.
+I am the undead, dormant, unable to scream.  
+The ravenous jackal lives more in a night than  
+In the length of my torpid life.  
 
 Be the blazing, urgent creature you were born to be.  
 Howl, and live,  
