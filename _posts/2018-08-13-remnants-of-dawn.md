@@ -18,7 +18,7 @@ And doubt the world around me?
 I fought for castles that crumbled into dust.  
 Murmured sweet nothings to paintings on the wall.  
 
-There is no firm ground.  
+There is no firm ground.  
 Be yourself, you don’t exist.  
 The paradox sends a ripple.  
 An existential riddle of freedom.  
@@ -39,7 +39,7 @@ Eliciting words beyond knowledge.
 Harness the wrath that grows within me.  
 Keepsakes of pity and vengeance,  
 Nausea too great to contain.  
- 
+
 Don't look back.  
 Cast aside your doubt.  
 
@@ -107,7 +107,7 @@ Unclasp your talons and release me.
 Enemies beyond count advance  
 Upon my derangement.  
 The façade crumbles.  
- 
+
 A distant sound.  
 Truth's echo.  
 Out of reach. Elusive.  
@@ -120,11 +120,11 @@ Replete I lie in damnation
 Numb to the vibrancy of life.  
 Free from the pulsing, burning flame  
 That underpins all we are and all we could be.  
- 
+
 I am the undead, dormant, unable to scream.
 The ravenous jackal lives more in a night than
 In the length of my torpid life.
- 
+
 Be the blazing, urgent creature you were born to be.  
 Howl, and live,  
 Before the talons of death close their icy grip.  
