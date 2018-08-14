@@ -18,11 +18,6 @@ And doubt the world around me?
 I fought for castles that crumbled into dust.  
 Murmured sweet nothings to paintings on the wall.  
 
-There is no firm ground.  
-Be yourself, you don’t exist.  
-The paradox sends a ripple.  
-An existential riddle of freedom.  
-
 How I long to walk the darkness  
 Exuberant, spirit overflowing,  
 To shine my fierce light.  
