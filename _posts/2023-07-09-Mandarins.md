@@ -5,10 +5,10 @@ date: 2023-07-09
 ---
 Where are the mandarins?  
 Glowing with quiet indignance  
-In their suffused chambers,   
+In their suffused chambers,  
 Withholding platinum dreams  
 And casting blank aspersions heavenward.  
-Do not intrude upon the workings of the men without portfolio.   
+Do not intrude upon the workings of men without portfolio.   
 
 A certain lady speaks of regret  
 And damns her eyes upon injustice as it unfolds.  
