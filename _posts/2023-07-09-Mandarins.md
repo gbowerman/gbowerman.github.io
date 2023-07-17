@@ -3,6 +3,7 @@ layout: post
 title: "Where are the mandarins?"
 date: 2023-07-09
 ---
+<img style="float: right;" alt="a lamentful siren" src="/images/siren.jpeg" width="512" height="410">
 Where are the mandarins?  
 Glowing with quiet indignance  
 In their suffused chambers,  
