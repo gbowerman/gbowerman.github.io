@@ -7,6 +7,6 @@ featured_image: aboutPage.jpg
 
 Thank you for reading.  
 
-This is a collection of prose and thoughts captured at specific times in my life that seemed appropriate at the time.
+This is a collection of prose and thoughts captured at points in my life that seemed significant at the time.
 
-Thank you GitHub pages, Jekyll, and the BlogBox theme that I mostly left intact.
+Thank you GitHub pages, Jekyll, and the <a href="https://github.com/JustGoodThemes/BlogBox-Jekyll-Theme/tree/master">BlogBox theme</a>  I more or less left intact.
