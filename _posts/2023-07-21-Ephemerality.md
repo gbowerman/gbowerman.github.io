@@ -2,7 +2,7 @@
 layout: post
 title: "Ephemerality"
 date: 2023-07-23
-featured_image: 
+featured_image: heart2.jpeg
 ---
 
 Harken to the lying heart  
